@@ -1,8 +1,4 @@
-//Programa inicdasdaddsadasdasdsad
 #include <ESP8266WiFi.h>
-#include <SPI.h>
-//#include "MFRC522.h"
-#include <EEPROM.h>
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 #include <ESP8266mDNS.h>
